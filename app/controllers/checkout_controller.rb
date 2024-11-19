@@ -1,5 +1,6 @@
 class CheckoutController < ApplicationController
 
+    # POST
     def create
         #
         #
